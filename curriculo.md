@@ -2,10 +2,10 @@
 ## Analista de Testes
 
 ##### Contato
-Sou de Vila Velha - ES
-Email: nandavilassa@gmail.com
-GITHUB - https://github.com/Fernanda-Teixeira-Vilassa
-LINKEDIN - https://www.linkedin.com/in/fernandavilassa/
+Sou de Vila Velha - ES &nbsp
+Email: nandavilassa@gmail.com &nbsp
+GITHUB - https://github.com/Fernanda-Teixeira-Vilassa &nbsp
+LINKEDIN - https://www.linkedin.com/in/fernandavilassa/ 
 
 ##### Soft-Skills
 * Dinamismo e dedicação;
